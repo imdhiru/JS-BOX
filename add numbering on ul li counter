@@ -1,0 +1,1 @@
+ $(".custom-menu-primary .hs-menu-wrapper > ul > li").addClass(function(i){return "item" + (i + 1);});
